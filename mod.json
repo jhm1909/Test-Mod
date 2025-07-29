@@ -8,35 +8,35 @@ main: "mindustrytool.Main"
 
 description:
   '''
- [#ff6347[]]Mindustry Tool – [white[]]Nâng Cao Trải Nghiệm Mindustry Của Bạn[[]]
+ [#EF4444[]]Mindustry Tool – [white[]]Tiện Ích Toàn Diện Cho Người Chơi[[]]
 
-[white[]]Mindustry Tool là một tiện ích mở rộng (mod) được tích hợp trực tiếp với nền tảng [#00bfff[]]mindustry-tool.com[white[]]. Mục tiêu của nó là mang lại một trải nghiệm liền mạch, cộng đồng và tiện lợi hơn cho tất cả người chơi Mindustry – từ người mới bắt đầu đến các kỹ sư kỳ cựu.
+[white[]]Mindustry Tool là một tiện ích mở rộng (mod) tích hợp với [#88C6ED[]]mindustry-tool.com[white[]], giúp người chơi kết nối, chia sẻ và tải về [#394BA0[]]bản đồ [white[]]và [#D54799[]]bản thiết kế (schematics)[white[]] chỉ với vài thao tác đơn giản. 
 
-Không chỉ dừng lại ở việc chia sẻ nội dung, Mindustry Tool còn giúp bạn **kết nối dễ dàng với bạn bè**, **truy cập vào danh sách máy chủ cộng đồng**, và **khám phá hàng trăm bản thiết kế chiến lược** chỉ với vài thao tác.
+Công cụ này đặc biệt phù hợp với cộng đồng yêu thích trải nghiệm trực quan, hiện đại — thiết kế màu sắc lấy cảm hứng từ bảng màu [#FAA31B[]]sinh động và [#009F75[]]năng lượng giúp tăng cảm hứng sáng tạo khi chơi.
 
-[accent[]][#00bfff[]]Chơi Cùng Bạn Bè Qua Chế Độ Host[[]]:
-  • [white[]]Không cần cài đặt phức tạp hay địa chỉ IP – chỉ cần một nút host là bạn có thể mời bạn bè cùng tham gia xây dựng căn cứ và phòng thủ.
-  • [white[]]Mindustry Tool tự động tối ưu hóa kết nối để đảm bảo trải nghiệm đa người mượt mà và ổn định.
+[accent[]][#009F75[]]Chơi Cùng Bạn Bè Qua Chế Độ Host[[]]:
+  • [white[]]Không cần cài đặt phức tạp – một nút host là đủ để kết nối và xây dựng cùng bạn bè.
+  • [white[]]Kết nối được tối ưu hóa, trải nghiệm chơi cùng ổn định và mượt mà.
 
-[accent[]][#00ced1[]]Truy Cập Danh Sách Máy Chủ Cộng Đồng[[]]:
-  • [white[]]Tích hợp danh sách máy chủ được cập nhật liên tục từ người dùng khắp thế giới.
-  • [white[]]Bạn có thể dễ dàng tìm và tham gia các máy chủ với chế độ chơi độc đáo, map sáng tạo và sự kiện hấp dẫn.
+[accent[]][#88C6ED[]]Danh Sách Máy Chủ Cộng Đồng[[]]:
+  • [white[]]Tìm kiếm và tham gia nhanh chóng các máy chủ từ khắp thế giới với chế độ chơi đa dạng.
+  • [white[]]Khám phá sự sáng tạo từ cộng đồng thông qua bản đồ độc quyền và sự kiện cộng đồng.
 
-[accent[]][#ffeb3b[]]Chia Sẻ & Tải Về [#00bfff[]]Bản Đồ & Thiết Kế (Schematics)[[]]:
-  • [white[]]Tải lên bản đồ tự tạo hoặc các bản thiết kế chiến lược mà bạn tâm đắc, chia sẻ với cộng đồng một cách dễ dàng.
-  • [white[]]Tìm kiếm và lưu về các sơ đồ xây dựng tối ưu cho sản xuất, phòng thủ, hay chiến tranh – tất cả đều có sẵn.
+[accent[]][#FFF000[]]Tải Về Bản Đồ & Thiết Kế (Schematics)[[]]:
+  • [white[]]Dễ dàng chia sẻ hoặc lưu về các bản thiết kế chiến lược, tối ưu hóa quy trình sản xuất và phòng thủ.
+  • [white[]]Hỗ trợ mọi cấp độ người chơi, từ cơ bản đến nâng cao.
 
-[accent[]][#32cd32[]]Kiểm Duyệt Nội Dung Chất Lượng[[]]:
-  • [white[]]Mọi nội dung được chia sẻ sẽ được đội ngũ [#32cd32[]]Mindustry Tool [white[]]kiểm tra kỹ lưỡng để đảm bảo tính chính xác, sáng tạo và phù hợp với tiêu chuẩn cộng đồng.
-  • [white[]]Bạn sẽ không phải lo lắng về nội dung rác hay không tương thích – tất cả đã được chọn lọc cẩn thận.
+[accent[]][#82C341[]]Kiểm Duyệt Nội Dung Kỹ Lưỡng[[]]:
+  • [white[]]Tất cả nội dung đều được đội ngũ [#82C341[]]Mindustry Tool [white[]]kiểm tra để đảm bảo tính sáng tạo, an toàn và tương thích.
+  • [white[]]Giúp bạn yên tâm khi sử dụng bất kỳ bản đồ hay schematic nào được chia sẻ.
 
-[accent[]][#ff4500[]]Hệ Thống Thẻ & Bộ Lọc Tìm Kiếm Chi Tiết[[]]:
-  • [white[]]Sử dụng hệ thống gắn thẻ (tags) thông minh: theo kiểu game, quy mô, tài nguyên, hoặc mức độ phức tạp.
-  • [white[]]Bộ lọc hỗ trợ tìm nội dung phù hợp với **phong cách chơi cá nhân** và **mục tiêu chiến lược cụ thể**.
+[accent[]][#FAA31B[]]Bộ Lọc & Thẻ Tìm Kiếm Thông Minh[[]]:
+  • [white[]]Sử dụng hệ thống thẻ mạnh mẽ để lọc nội dung theo kiểu game, tài nguyên hoặc mục đích sử dụng.
+  • [white[]]Giao diện lọc hiện đại, dễ dùng, tăng tốc quá trình tìm kiếm nội dung bạn cần.
 
-[#ff6347[]]Liên Kết Hữu Ích[[]]:
-  • [#00bfff[]] Website: [white[]]https://mindustry-tool.com[[]]
-  • [#ff6347[]] Discord: [white[]]https://discord.gg/nQDrEHVkrt[[]]
+[#EF4444[]]Liên Kết Hữu Ích[[]]:
+  • [#88C6ED[]] Website: [white[]]https://mindustry-tool.com[[]]
+  • [#D54799[]] Discord: [white[]]https://discord.gg/nQDrEHVkrt[[]]
   '''
 version: v1.10.0
 
