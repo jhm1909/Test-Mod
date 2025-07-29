@@ -38,6 +38,6 @@ version: v1.10.0
 
 minGameVersion: 146
 
-java: true
+java: false
 
 hidden: true
